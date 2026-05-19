@@ -6,7 +6,7 @@ import datetime
 import json
 #from PIL import ImageGrab
 from dotenv import load_dotenv
-from google import genai
+from google.genai import Client
 import pyautogui
 import asyncio
 from io import BytesIO
