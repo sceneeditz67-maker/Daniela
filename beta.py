@@ -4,7 +4,7 @@ import subprocess
 import os
 import datetime
 import json
-from PIL import ImageGrab
+#from PIL import ImageGrab
 from dotenv import load_dotenv
 from google import genai
 import pyautogui
